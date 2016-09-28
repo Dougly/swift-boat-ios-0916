@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11F835B71D9C1A9400C70C8D /* Boat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F835B61D9C1A9400C70C8D /* Boat.swift */; };
 		4D7E0DBF1C05005A00A15C54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7E0DBE1C05005A00A15C54 /* AppDelegate.swift */; };
 		4D7E0DC11C05005A00A15C54 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7E0DC01C05005A00A15C54 /* ViewController.swift */; };
 		4D7E0DC41C05005A00A15C54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7E0DC21C05005A00A15C54 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		11F835B61D9C1A9400C70C8D /* Boat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Boat.swift; sourceTree = "<group>"; };
 		4D7E0DBB1C05005A00A15C54 /* swift-boat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-boat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D7E0DBE1C05005A00A15C54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D7E0DC01C05005A00A15C54 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				4D7E0DBE1C05005A00A15C54 /* AppDelegate.swift */,
+				11F835B61D9C1A9400C70C8D /* Boat.swift */,
 				4D7E0DDE1C05016E00A15C54 /* Resources */,
 			);
 			path = "swift-boat";
@@ -213,6 +216,7 @@
 			files = (
 				4D7E0DC11C05005A00A15C54 /* ViewController.swift in Sources */,
 				4D7E0DBF1C05005A00A15C54 /* AppDelegate.swift in Sources */,
+				11F835B71D9C1A9400C70C8D /* Boat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
